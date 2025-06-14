@@ -1,6 +1,6 @@
 Hi there, I'm Mansi Purbiya 👋
 
-About Me
+About Me   </br>
 🎓 Currently pursuing MCA with specialization in Big Data Analytics at Parul University, Vadodara. </br>
 💻 Aspiring Frontend Web Developer exploring the world of web technologies.</br>
 🐍 Learning Python & Java to enhance my programming skills.</br>

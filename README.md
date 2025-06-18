@@ -4,7 +4,7 @@
 
 🎓 Currently pursuing MCA with specialization in Big Data Analytics at Parul University, Vadodara. </br>
 💻 Aspiring Frontend Web Developer exploring the world of web technologies.</br>
-🐍 Learning Python & Java to enhance my programming skills.</br>
+🐍 Exploring Python & Java to enhance my programming skills.</br>
 📊 Passionate about data, technology, and solving real-world problems with code.</br>
 
 <h2>Skills</h2>

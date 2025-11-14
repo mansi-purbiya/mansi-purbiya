@@ -9,7 +9,7 @@
 
 <h2>Skills</h2>
 
-Frontend: HTML, CSS, JavaScript (learning)</br>
+Frontend: HTML, CSS, JavaScript </br>
 Programming Languages: Python, Java </br>
 Data Analysis & Visualization: pandas, numpy, seaborn, matplotlib,power bi</br>
 Others: Excel   </br>

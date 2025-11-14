@@ -11,7 +11,7 @@
 
 Frontend: HTML, CSS, JavaScript (learning)</br>
 Programming Languages: Python, Java </br>
-Data Analysis & Visualization: pandas, numpy, seaborn, matplotlib</br>
+Data Analysis & Visualization: pandas, numpy, seaborn, matplotlib,power bi</br>
 Others: Excel   </br>
 
 <h2>What I’m Working On</h2>
